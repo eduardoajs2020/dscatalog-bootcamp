@@ -1,5 +1,5 @@
 import React from 'react';
-import { Product } from '../../../../core/types/Products';
+import { Product } from 'core/types/Products';
 import ProductPrice from '../ProductPrice';
 import './styles.scss';
 
