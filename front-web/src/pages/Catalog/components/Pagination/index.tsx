@@ -2,7 +2,6 @@ import React from 'react';
 import { ReactComponent as ArrowIcon } from 'core/assets/images/arrow.svg';
 import './styles.scss';
 import { generateList } from 'core/utils/list';
-import { type } from 'os';
 
 type Props = {
     totalPages: number;
